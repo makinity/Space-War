@@ -8,7 +8,7 @@
   };
 
   const PLAYER_SIZE = 50;
-  const ENEMY_SIZE = 32;
+  const ENEMY_SIZE = 50; // slightly larger enemy sprite
   const PLAYER_Y_OFFSET = 40; // lift player so the sprite is fully visible above the bottom
 
   const COLORS = {
